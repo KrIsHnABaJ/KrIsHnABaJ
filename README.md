@@ -1,4 +1,18 @@
-## Hi there 👋
+### 👋 Hi, I'm Krishna Bajpai  
+
+I'm a **Java and Full-Stack Developer** passionate about building scalable, user-centric web applications.  
+I enjoy working with **React, Node.js, MongoDB, and AWS Cloud**, and I’m constantly exploring new ways to write efficient, maintainable code that drives real impact.  
+
+---
+
+- 🔭 **I’m currently working on:** Scalable web apps using React, Node.js, and Java  
+- 🌱 **I’m currently learning:** AWS Cloud architecture and backend performance optimization  
+- 👯 **I’m looking to collaborate on:** Full-stack or cloud-based projects that solve real-world problems  
+- 🤝 **I’m looking to connect with:** Developers and mentors passionate about scalable architecture and clean code  
+- 💬 **Ask me about:** Java, Full-Stack Development, AWS, or SQL  
+- 📫 **How to reach me:** krishnabajpai28@gmail.com  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I love solving challenges on LeetCode and bringing creative tech ideas to life 🚀  
 
 
 ## 🌐 Socials:
